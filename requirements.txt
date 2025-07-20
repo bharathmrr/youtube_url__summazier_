@@ -1,0 +1,8 @@
+langchain>=0.1.15
+langchain-google-genai>=0.0.6
+youtube-transcript-api
+python-dotenv
+openai
+tiktoken
+streamlit
+requests
